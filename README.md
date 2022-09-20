@@ -24,3 +24,4 @@ I'm Mikaelly, a Jr. front-end developer and a Analysis and systems development s
  <a href = "mailto:mikaelly.dsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/MikaellySilva/MikaellySilva/blob/output/github-contribution-grid-snake.svg)
